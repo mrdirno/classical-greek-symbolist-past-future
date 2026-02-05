@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_symbolist_past_future",
+  "title": "THE PRISM OF UNWRITTEN GODS",
+  "tagline": "In a forgotten cistern, a woman discovers symbols that hold the memories of the world—and the power to reshape its future.",
+  "target_words": 70000,
+  "actual_words": 79136,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Language of Reality",
+    "Memory as a Physical Substance",
+    "Anchoring vs. Transcendence",
+    "The Violence of Forgetting"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Cistern of Broken Symbols",
+      "words": 3297
+    },
+    {
+      "ch": 2,
+      "title": "The Fisher of Fragments",
+      "words": 3297
+    },
+    {
+      "ch": 3,
+      "title": "The First Separation",
+      "words": 3297
+    },
+    {
+      "ch": 4,
+      "title": "The Gate of Horn and Ivory",
+      "words": 3297
+    },
+    {
+      "ch": 5,
+      "title": "The Keeper of the Unspoken",
+      "words": 3297
+    },
+    {
+      "ch": 6,
+      "title": "The Resonance Test",
+      "words": 3297
+    },
+    {
+      "ch": 7,
+      "title": "The Dream of the Black Disc",
+      "words": 3297
+    },
+    {
+      "ch": 8,
+      "title": "The Anchored Life",
+      "words": 3297
+    },
+    {
+      "ch": 9,
+      "title": "The Loom of Potential",
+      "words": 3297
+    },
+    {
+      "ch": 10,
+      "title": "The Cargo Hold",
+      "words": 3297
+    },
+    {
+      "ch": 11,
+      "title": "The Symbol of the Cracked Vessel",
+      "words": 3297
+    },
+    {
+      "ch": 12,
+      "title": "The Whisper in the Marble",
+      "words": 3297
+    },
+    {
+      "ch": 13,
+      "title": "The Garden of Unborn Myths",
+      "words": 3297
+    },
+    {
+      "ch": 14,
+      "title": "The Architect of Silence",
+      "words": 3297
+    },
+    {
+      "ch": 15,
+      "title": "The Tide of Proto-Language",
+      "words": 3297
+    },
+    {
+      "ch": 16,
+      "title": "The Bargain with Memory",
+      "words": 3297
+    },
+    {
+      "ch": 17,
+      "title": "The Forging of a New Anchor",
+      "words": 3297
+    },
+    {
+      "ch": 18,
+      "title": "The Rebellion of the Resonant",
+      "words": 3297
+    },
+    {
+      "ch": 19,
+      "title": "The Unweaving of Lykos",
+      "words": 3297
+    },
+    {
+      "ch": 20,
+      "title": "The Heart of the Prism",
+      "words": 3297
+    },
+    {
+      "ch": 21,
+      "title": "The Choice of Becoming",
+      "words": 3297
+    },
+    {
+      "ch": 22,
+      "title": "The Seed of a Future Past",
+      "words": 3297
+    },
+    {
+      "ch": 23,
+      "title": "The Closing of the Eye",
+      "words": 3297
+    },
+    {
+      "ch": 24,
+      "title": "The Soil of Dawn",
+      "words": 3297
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from Philo's perspective, detailing his first day in the cistern and the fragment that broke his old life.",
+      "Create a 'memory-vision' triggered by a newly discovered symbol fragment—describe the primal scene it reveals.",
+      "Draft a confrontation between Elara and the 'Architect of Silence,' the mysterious overseer of the Prism.",
+      "Write a letter from Lykos, searching for his vanished wife, that slowly reveals the cracks in their 'anchored' world."
+    ],
+    "technical": [
+      "Design a visual system for the 'old language' symbols—a non-linear, emotive script that conveys concepts, not words.",
+      "Build an interactive 'Cistern Simulator' where users can drag a hook through a dark pool to retrieve and assemble symbolic fragments."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin (anthropological mythopoeia)",
+      "Jorge Luis Borges (labyrinthine metaphysics)",
+      "Virginia Woolf (stream-of-consciousness interiority)",
+      "William Gibson (high-concept, low-tech aesthetic)"
+    ]
+  },
+  "cover_prompt": "A woman in a tattered, classical chiton reaches out with reverence to touch luminous, three-dimensional symbols—geometric shapes and archaic glyphs—that float like solidified memory in the stagnant air of a vast, forgotten cistern, her fingers causing ripples of light in the dark water at her feet, the ancient brickwork covered in a softer, organic growth of crystalline structures that pulse with a faint internal light. The scene is one of profound discovery and latent power within a submerged, sacred space, where the physical substance of forgotten history hangs in the air, suggesting both the weight of the past and the potential energy of a future waiting to be rewritten. In the atmospheric and mythic style of Anselm Kiefer, with the textured materiality and symbolic depth of a Zdzisław Beksiński landscape, rendered in the medium of thick, expressive oil paints and mixed media with layers of meaning and decay. Book cover framing, centered and intimate composition viewed from a low angle to emphasize the towering, glyph-filled space and the solitary figure's awe, creating a sense of monumental scale and personal revelation. Dramatic chiaroscuro lighting where the only illumination emanates from the glowing symbols themselves, casting long, stark shadows and highlighting the textures of wet stone and fabric, within a color palette of deep umbra, oxidized bronze, and ethereal, prismatic golds and sapphire blues. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
